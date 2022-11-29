@@ -1,0 +1,14 @@
+.container{
+    background-color: beige;
+    text-align: center;
+    margin: 0 auto;
+    width: fit-content;
+    block-size: fit-content;
+    padding: 20px;
+}
+#form-id{
+    font-size: 30px;
+}
+#result{
+    font-size: 50px;
+}
